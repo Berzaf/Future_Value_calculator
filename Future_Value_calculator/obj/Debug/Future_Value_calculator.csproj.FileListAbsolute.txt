@@ -1,0 +1,10 @@
+C:\Users\birhanu\Desktop\Future_Value_calculator\Future_Value_calculator\bin\Debug\Future_Value_calculator.exe.config
+C:\Users\birhanu\Desktop\Future_Value_calculator\Future_Value_calculator\bin\Debug\Future_Value_calculator.exe
+C:\Users\birhanu\Desktop\Future_Value_calculator\Future_Value_calculator\bin\Debug\Future_Value_calculator.pdb
+C:\Users\birhanu\Desktop\Future_Value_calculator\Future_Value_calculator\obj\Debug\Future_Value_calculator.csprojAssemblyReference.cache
+C:\Users\birhanu\Desktop\Future_Value_calculator\Future_Value_calculator\obj\Debug\Future_Value_calculator.Form1.resources
+C:\Users\birhanu\Desktop\Future_Value_calculator\Future_Value_calculator\obj\Debug\Future_Value_calculator.Properties.Resources.resources
+C:\Users\birhanu\Desktop\Future_Value_calculator\Future_Value_calculator\obj\Debug\Future_Value_calculator.csproj.GenerateResource.cache
+C:\Users\birhanu\Desktop\Future_Value_calculator\Future_Value_calculator\obj\Debug\Future_Value_calculator.csproj.CoreCompileInputs.cache
+C:\Users\birhanu\Desktop\Future_Value_calculator\Future_Value_calculator\obj\Debug\Future_Value_calculator.exe
+C:\Users\birhanu\Desktop\Future_Value_calculator\Future_Value_calculator\obj\Debug\Future_Value_calculator.pdb
